@@ -1,0 +1,38 @@
+
+  main {
+    text-align: center;
+  }
+  
+  .card {
+    margin: 1.875rem;
+    background-color: #A5D6A7; /* Verde claro */
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: block;
+    padding: 1%;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .containerDestaque {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    background-color: #81C784; /* Verde más oscuro */
+  }
+
+  
+.container{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-img-top{
+    width: 200px;
+    height: 200px;
+}
+
+
+  
+  

@@ -1,0 +1,26 @@
+.containerMisio {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+main {
+    text-align: center;
+}
+
+.card {
+    margin: 1.875rem;
+    background-color: #A5D6A7;
+    /* Verde claro */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.containerDestaque {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    background-color: #81C784;
+    /* Verde más oscuro */
+}
